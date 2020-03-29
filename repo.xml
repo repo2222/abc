@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Facebook</name>
+			<url>https://www.facebook.com/b0401</url>
+			<iconclass>Facebook</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url></url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
